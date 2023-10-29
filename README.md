@@ -35,3 +35,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhnavezz&" alt="sheikhnavezz" /></p>
 
+
+<img src="https://raw.githubusercontent.com/sheikhnavezz/sheikhnavezz/output/snake.svg" alt="Snake animation" />
