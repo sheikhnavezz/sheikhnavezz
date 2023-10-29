@@ -1,5 +1,5 @@
 <img  src="https://github.com/sheikhnavezz/png/blob/main/png.png" >
-###<h1 align="center">Hi 👋 I'm Sheikh Navez</h1>
+<h1 align="center">Hi 👋 I'm Sheikh Navez</h1>
 <h3 align="center">A passionate Devops Engg. from India</h3>
 <img align="right" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
 
@@ -19,7 +19,7 @@
 
 
 <h1>
-    "Some words about me " </h1>
+   ✨ "Some words about me " ✨</h1>
 <h2><p>
     A person to whom computers facinate more than humans, a person with great interest in Coding,
     curious to knowing the behind the process of software.
