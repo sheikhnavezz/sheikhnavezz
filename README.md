@@ -25,7 +25,7 @@
     curious to knowing the behind the process of software.
    
     A person who is also DEV | Freelancer | Linux Admin
-    Corrupt fear US, The Honest Support US, The Heroic join US, Everyone Expect US..!! 
+   " Corrupt fear US, The Honest Support US, The Heroic join US, Everyone Expect US..!! "
     
 </p></h2>    
 
