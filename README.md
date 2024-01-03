@@ -28,7 +28,12 @@
    " Corrupt fear US, The Honest Support US, The Heroic join US, Everyone Expect US..!! "
     
 </p></h2> 
-### [Terraform Templates for setting up Infrastructure over AWS](https://github.com/sheikhnavezz/terraform-project.git)
+ <p>
+ Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/sheikhnavezz/terraform-project.git)
+ 
+ </p>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhnavezz&show_icons=true&locale=en&layout=compact" alt="sheikhnavezz" /></p>
 
