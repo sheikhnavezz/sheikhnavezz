@@ -28,9 +28,17 @@
    " Corrupt fear US, The Honest Support US, The Heroic join US, Everyone Expect US..!! "
     
 </p></h2> 
- ##### 👨‍💻 Some of the projects I have worked recently
  
- Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/sheikhnavezz/terraform-project.git)
+<h1>
+   ✨ "Some of the projects I have worked on " ✨</h1>
+  - 📦 Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/sheikhnavezz/terraform-project.git)
+
+  - 📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3 - [Github](https://github.com/sheikhnavezz/jenkins-project.git)
+
+  - 
+<h2><p>
+ 
+
  
 
 
