@@ -37,6 +37,7 @@
   - 📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3 - [Github](https://github.com/sheikhnavezz/jenkins-project.git)
 
   - 📦 Setting up Docker container for simple nodejs application - [Github](https://github.com/sheikhnavezz/docker-projects.git)
+| -------------- | --------------- | 
 
 <h2><p>
  
