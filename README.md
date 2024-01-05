@@ -47,9 +47,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheikhnavezz&show_icons=true&locale=en" alt="sheikhnavezz" /></p>
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhnavezz&" alt="sheikhnavezz" /></p>
-
-<br>
-
- <p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
