@@ -42,9 +42,9 @@
 <h2><p>
  <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhnavezz&show_icons=true&locale=en&layout=compact" alt="sheikhnavezz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhnavezz&show_icons=true&locale=en&layout=compact" alt="sheikhnavezz" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sheikhnavezz&show_icons=true&locale=en" alt="sheikhnavezz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheikhnavezz&show_icons=true&locale=en" alt="sheikhnavezz" /></p>
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhnavezz&" alt="sheikhnavezz" /></p>
 
