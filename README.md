@@ -29,15 +29,15 @@
     
 </p></h2> 
  
-<h1>
-   ✨ "Some of the projects I have worked on " ✨</h1>
+<h1>✨ "Some of the projects I have worked on " ✨</h1>
+<p>
    
   - 📦 Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/sheikhnavezz/terraform-project.git)
 
   - 📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3 - [Github](https://github.com/sheikhnavezz/jenkins-project.git)
 
   - 📦 Setting up Docker container for simple nodejs application - [Github](https://github.com/sheikhnavezz/docker-projects.git)
-| -------------- | --------------- | 
+</p>
 
 <h2><p>
  
