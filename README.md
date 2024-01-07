@@ -34,9 +34,16 @@
    
   - 📦 Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/sheikhnavezz/terraform-project.git)
 
+  - 📦 Easy Steps for Jenkins Installation - [Github](https://github.com/sheikhnavezz/jenkins-installation-easy-steps.git)
+   
   - 📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3 - [Github](https://github.com/sheikhnavezz/jenkins-project.git)
 
   - 📦 Setting up Docker container for simple nodejs application - [Github](https://github.com/sheikhnavezz/docker-projects.git)
+
+ 
+
+
+   
 </p>
 
 <h2><p>
