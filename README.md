@@ -40,6 +40,7 @@
 
   - 📦 Setting up Docker container for simple nodejs application - [Github](https://github.com/sheikhnavezz/docker-projects.git)
 
+  - 📦 3-Tier AWS-Project (Hosting a static website on AWS S3 using CloudFront) - [Github](https://github.com/sheikhnavezz/3-tier_AWS_Project.git)
  
 
 
