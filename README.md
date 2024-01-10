@@ -41,17 +41,13 @@
   - 📦 Setting up Docker container for simple nodejs application - [Github](https://github.com/sheikhnavezz/docker-projects.git)
 
   - 📦 3-Tier AWS-Project (Hosting a static website on AWS S3 using CloudFront) - [Github](https://github.com/sheikhnavezz/3-tier_AWS_Project.git)
- 
-
-
-   
+  
 </p>
 
 <h2><p>
  <br>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhnavezz&show_icons=true&locale=en&layout=compact" alt="sheikhnavezz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheikhnavezz&show_icons=true&locale=en" alt="sheikhnavezz" /></p>
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhnavezz&" alt="sheikhnavezz" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sheikhknavezz&card_width=450" alt="sheikhnavezz" /></a></p>
