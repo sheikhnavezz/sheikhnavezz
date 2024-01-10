@@ -50,10 +50,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheikhnavezz&show_icons=true&locale=en" alt="sheikhnavezz" /></p>
 
-<p><a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=sheikhknavezz&card_width=450" alt="sheikhnavezz" />
-</a>
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikhnavezz&theme=default)
 
 
 
