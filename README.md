@@ -46,11 +46,13 @@
 
 <h2><p>
  <br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikhnavezz&theme=default)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhnavezz&show_icons=true&locale=en&layout=compact" alt="sheikhnavezz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheikhnavezz&show_icons=true&locale=en" alt="sheikhnavezz" /></p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikhnavezz&theme=default)
 
 
 
