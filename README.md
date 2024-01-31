@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhnavezz&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhnavezz" /> </p>
 
-- 🌱 I’m currently learning **CDEC Course**
+- 🌱 I’m currently working with **HISAN Labs Pvt Ltd, Pune (MH)**
 
 - 💬 Ask me about **AWS, Terraform, Kubernetes, Jenkins**
 
