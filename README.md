@@ -45,11 +45,7 @@
 </p>
 
 
-<h2> ☸️➡📝"Self made Kubernetes Notes includes some basic and overview " 
-   <p>
-      [Notes-Link](https://dev-navez.notion.site/Kubernetes-Notes-446cfc29c32544a1bf862eabdaae0baa)
-   </p></h2>
-  
+
 <h2><p>
  <br>
 
