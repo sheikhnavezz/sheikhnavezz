@@ -45,14 +45,6 @@
 </p>
 
 
-<h2>📝"Self made Kubernetes Notes  " </h2>
-      
-<p> 
-
-  - [☸📝K8s Notes ](https://dev-navez.notion.site/Kubernetes-Notes-446cfc29c32544a1bf862eabdaae0baa)
-</p>
-
-<h2><p>
  <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikhnavezz&theme=default)
