@@ -20,7 +20,8 @@
 
 
 <h1>
-   ✨ "Some words about me " ✨</h1>
+   ⭐ " Some words about me " ⭐ </h1>
+
 <h2><p>
     A person to whom computers facinate more than humans, a person with great interest in Coding,
     curious to know behind the process of software.
@@ -30,7 +31,8 @@
     
 </p></h2> 
  
-<h1>✨ "Some of the projects I have worked on " ✨</h1>
+<h1> ⭐ " Some of the projects I have worked on " ⭐ </h1>
+
 <p>
    
   - 📦 Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/sheikhnavezz/terraform-project.git)
