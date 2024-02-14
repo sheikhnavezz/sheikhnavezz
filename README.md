@@ -1,7 +1,7 @@
 <img  src="https://github.com/sheikhnavezz/png/blob/main/png.png" >
 <h1 align="center">Hi 👋 I'm Sheikh Navez</h1>
 <h3 align="center">A passionate Devops Engg. from India</h3>
-<img align="right" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
+<img align="right" width="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhnavezz&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhnavezz" /> </p>
 
