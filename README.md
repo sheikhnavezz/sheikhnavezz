@@ -1,6 +1,6 @@
 <img  src="https://github.com/sheikhnavezz/png/blob/main/png.png" >
 <h1 align="center">Hi 👋 I'm Sheikh Navez</h1>
-<h3 align="center">A passionate Devops Engg. from India</h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1025&random=false&width=600&lines=A+passionate+Devops+Engineer+from+India+.+.+%F0%9F%98%8E" alt="Typing SVG" /></a></h3>
 <img align="right" width="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhnavezz&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhnavezz" /> </p>
