@@ -50,6 +50,7 @@
 
   - 📦 Terraform AWS-Project (Hosting a static website on AWS S3 using Terraform) - [Github](https://github.com/sheikhnavezz/static_website_terraform.git)
 
+  - 📦 Integration of Grafana on AWS EC2 server (Using Loki and Promtail) - [Github](https://github.com/sheikhnavezz/grafana_installation.git)
   
 </p>
 
